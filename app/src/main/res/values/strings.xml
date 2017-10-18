@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <array name="cities_Name">
+        <item>Cairo</item>
+        <item>Giza</item>
+        <item>Alexandria</item>
+        <item>Mansoura</item>
+        <item>Luxor</item>
+        <item>KafrElSheikh</item>
+        <item>SharmElSheikh</item>
+        <item>Hurghada</item>
+        <item>Aswan</item>
+        <item>Matruh</item>
+        <item>Alam</item>
+        <item>PortSaid</item>
+    </array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
